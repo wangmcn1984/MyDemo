@@ -1,0 +1,8 @@
+Python: can't open file 'all_test.py': [Errno 2] No such file or directory
+E  test_01 (test_case1.Test1)
+F  test_02 (test_case1.Test1)
+ok test_03 (test_case1.Test1)
+ok test_01 (test_case2.Test2)
+ok test_02 (test_case2.Test2)
+
+Time Elapsed: 0:00:19.196000
